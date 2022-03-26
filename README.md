@@ -1,8 +1,9 @@
-# webpack-starter-react
+# Webpack Starter react
 
+## Description
 This repo can be used to start a sample React application with webpack.
 
-###Installation
+### Installation
 - To run locally
   - Clone the repo
   ```
